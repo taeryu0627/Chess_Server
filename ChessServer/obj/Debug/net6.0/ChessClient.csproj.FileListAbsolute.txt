@@ -1,0 +1,15 @@
+C:\Test\ChessServer\ChessServer\obj\Debug\net6.0\ChessClient.csproj.AssemblyReference.cache
+C:\Test\ChessServer\ChessServer\obj\Debug\net6.0\ChessClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\ChessServer\ChessServer\obj\Debug\net6.0\ChessClient.AssemblyInfoInputs.cache
+C:\Test\ChessServer\ChessServer\obj\Debug\net6.0\ChessClient.AssemblyInfo.cs
+C:\Test\ChessServer\ChessServer\obj\Debug\net6.0\ChessClient.csproj.CoreCompileInputs.cache
+C:\Test\ChessServer\ChessServer\bin\Debug\net6.0\ChessClient.exe
+C:\Test\ChessServer\ChessServer\bin\Debug\net6.0\ChessClient.deps.json
+C:\Test\ChessServer\ChessServer\bin\Debug\net6.0\ChessClient.runtimeconfig.json
+C:\Test\ChessServer\ChessServer\bin\Debug\net6.0\ChessClient.dll
+C:\Test\ChessServer\ChessServer\bin\Debug\net6.0\ChessClient.pdb
+C:\Test\ChessServer\ChessServer\obj\Debug\net6.0\ChessClient.dll
+C:\Test\ChessServer\ChessServer\obj\Debug\net6.0\refint\ChessClient.dll
+C:\Test\ChessServer\ChessServer\obj\Debug\net6.0\ChessClient.pdb
+C:\Test\ChessServer\ChessServer\obj\Debug\net6.0\ChessClient.genruntimeconfig.cache
+C:\Test\ChessServer\ChessServer\obj\Debug\net6.0\ref\ChessClient.dll
